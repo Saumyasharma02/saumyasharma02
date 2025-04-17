@@ -26,7 +26,7 @@
   <h2>📊 GitHub Stats</h2>
   <p>Check out my contributions and coding journey!</p> 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saumyasharma02&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Saumyasharma02&theme=merko" alt="GitHub Contribution Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Saumyasharma02&theme=merko" alt="GitHub Contribution Streak"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Tech Stack</h2>
